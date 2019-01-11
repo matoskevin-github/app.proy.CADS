@@ -1,0 +1,269 @@
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmAsignaciondeAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmCondicionAltayBaja.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmConservacion.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmDocumentoPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmEntidadEducativaPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmFormadeAdquisicion.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGrupoGenericoPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAreas.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarEnseresPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPabellones.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPisosPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarResponsablesPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoArticulosPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoCaja.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmLoginPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmNivelEstadoPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.mdiPrincipalPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.Resources.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.pdb
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.xml
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmAsignaciondeAmbientesPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmCondicionAltayBaja.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmConservacion.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmDocumentoPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmEntidadEducativaPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmFormadeAdquisicion.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGrupoGenericoPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAmbientesPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAreas.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarEnseresPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPabellones.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPisosPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarResponsablesPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoArticulosPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoCaja.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmLoginPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmNivelEstadoPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.mdiPrincipalPDM.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.Resources.resources
+C:\Users\-Init\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmAsignaciondeAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmCondicionAltayBaja.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmConservacion.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmDocumentoPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmEntidadEducativaPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmFormadeAdquisicion.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGrupoGenericoPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAreas.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarEnseresPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPabellones.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPisosPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarResponsablesPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoArticulosPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoCaja.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmLoginPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmNivelEstadoPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.mdiPrincipalPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.Resources.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGestiondeUsuariosPDM.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmSalidadeEnseres.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmAsignaciondeAmbientesPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmCondicionAltayBaja.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmConservacion.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmDocumentoPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmEntidadEducativaPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmFormadeAdquisicion.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGestiondeUsuariosPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGrupoGenericoPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAmbientesPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarEnseresPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPabellones.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPisosPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarResponsablesPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoArticulosPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoCaja.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmLoginPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmNivelEstadoPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmSalidadeEnseres.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.mdiPrincipalPDM.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.Resources.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresaCargo.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmAsignaciondeAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmCondicionAltayBaja.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmConservacion.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmDocumentoPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmEntidadEducativaPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmFormadeAdquisicion.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGestiondeUsuariosPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGrupoGenericoPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresaCargo.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarEnseresPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPabellones.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPisosPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarResponsablesPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoArticulosPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoCaja.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmLoginPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmNivelEstadoPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmSalidadeEnseres.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.mdiPrincipalPDM.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.Resources.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmAsignaciondeAmbientesPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmCondicionAltayBaja.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmConservacion.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmDocumentoPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmEntidadEducativaPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmFormadeAdquisicion.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGestiondeUsuariosPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGrupoGenericoPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAmbientesPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresaCargo.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarEnseresPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPabellones.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPisosPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarResponsablesPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoArticulosPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoCaja.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmLoginPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmNivelEstadoPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmSalidadeEnseres.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.mdiPrincipalPDM.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.Resources.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Common.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmAsignaciondeAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmCondicionAltayBaja.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmConservacion.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmDocumentoPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmEntidadEducativaPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmFormadeAdquisicion.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGestiondeUsuariosPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmGrupoGenericoPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarAmbientesPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresaCargo.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarEnseresPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPabellones.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarPisosPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresarResponsablesPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoArticulosPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmIngresoCaja.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmLoginPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmNivelEstadoPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmSalidadeEnseres.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.mdiPrincipalPDM.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.Resources.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.frmArticulosPDM.resources
+C:\Users\vmatos\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\bin\Debug\PDM.Presentacion.exe.config
+C:\Users\vmatos\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.exe
+C:\Users\vmatos\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.xml
+C:\Users\vmatos\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Presentacion\obj\Debug\PDM.Presentacion.pdb

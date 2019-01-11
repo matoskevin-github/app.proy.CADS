@@ -1,0 +1,40 @@
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.Resources.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.Resources.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.Resources.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.Resources.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.Resources.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\obj\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Entidades\bin\Debug\PDM.Entidades.xml

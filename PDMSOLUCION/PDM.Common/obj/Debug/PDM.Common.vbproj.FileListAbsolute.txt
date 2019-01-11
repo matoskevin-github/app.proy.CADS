@@ -1,0 +1,24 @@
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.Resources.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.Resources.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\bin\Debug\PDM.Common.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.Resources.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.Common\obj\Debug\PDM.Common.pdb

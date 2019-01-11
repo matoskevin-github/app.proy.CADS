@@ -1,0 +1,75 @@
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.Resources.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.Resources.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.Resources.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.Resources.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.Resources.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.LogicaNegocio\obj\Debug\PDM.LogicaNegocio.pdb

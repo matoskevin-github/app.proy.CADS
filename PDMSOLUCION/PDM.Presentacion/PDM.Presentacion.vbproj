@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DC911855-9F63-402C-A50B-2D098D4E5BCB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PDM.Presentacion.My.MyApplication</StartupObject>
+    <RootNamespace>PDM.Presentacion</RootNamespace>
+    <AssemblyName>PDM.Presentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PDM.Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PDM.Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmArticulosPDM.Designer.vb">
+      <DependentUpon>frmArticulosPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmArticulosPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAsignaciondeAmbientesPDM.Designer.vb">
+      <DependentUpon>frmAsignaciondeAmbientesPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAsignaciondeAmbientesPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCondicionAltayBaja.Designer.vb">
+      <DependentUpon>frmCondicionAltayBaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCondicionAltayBaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConservacion.Designer.vb">
+      <DependentUpon>frmConservacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConservacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocumentoPDM.Designer.vb">
+      <DependentUpon>frmDocumentoPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDocumentoPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEntidadEducativaPDM.Designer.vb">
+      <DependentUpon>frmEntidadEducativaPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEntidadEducativaPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFormadeAdquisicion.Designer.vb">
+      <DependentUpon>frmFormadeAdquisicion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFormadeAdquisicion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestiondeUsuariosPDM.Designer.vb">
+      <DependentUpon>frmGestiondeUsuariosPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestiondeUsuariosPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupoGenericoPDM.Designer.vb">
+      <DependentUpon>frmGrupoGenericoPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupoGenericoPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresarAmbientesPDM.Designer.vb">
+      <DependentUpon>frmIngresarAmbientesPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresarAmbientesPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresaCargo.Designer.vb">
+      <DependentUpon>frmIngresaCargo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresaCargo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresarEnseresPDM.Designer.vb">
+      <DependentUpon>frmIngresarEnseresPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresarEnseresPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresarPabellones.Designer.vb">
+      <DependentUpon>frmIngresarPabellones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresarPabellones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresarPisosPDM.Designer.vb">
+      <DependentUpon>frmIngresarPisosPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresarPisosPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresarResponsablesPDM.Designer.vb">
+      <DependentUpon>frmIngresarResponsablesPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresarResponsablesPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresoArticulosPDM.Designer.vb">
+      <DependentUpon>frmIngresoArticulosPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresoArticulosPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIngresoCaja.Designer.vb">
+      <DependentUpon>frmIngresoCaja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmIngresoCaja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginPDM.Designer.vb">
+      <DependentUpon>frmLoginPDM.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNivelEstadoPDM.Designer.vb">
+      <DependentUpon>frmNivelEstadoPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNivelEstadoPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalidadeEnseres.Designer.vb">
+      <DependentUpon>frmSalidadeEnseres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalidadeEnseres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdiPrincipalPDM.Designer.vb">
+      <DependentUpon>mdiPrincipalPDM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mdiPrincipalPDM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Session\SessionUsuario.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmArticulosPDM.resx">
+      <DependentUpon>frmArticulosPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAsignaciondeAmbientesPDM.resx">
+      <DependentUpon>frmAsignaciondeAmbientesPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCondicionAltayBaja.resx">
+      <DependentUpon>frmCondicionAltayBaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConservacion.resx">
+      <DependentUpon>frmConservacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocumentoPDM.resx">
+      <DependentUpon>frmDocumentoPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEntidadEducativaPDM.resx">
+      <DependentUpon>frmEntidadEducativaPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFormadeAdquisicion.resx">
+      <DependentUpon>frmFormadeAdquisicion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestiondeUsuariosPDM.resx">
+      <DependentUpon>frmGestiondeUsuariosPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupoGenericoPDM.resx">
+      <DependentUpon>frmGrupoGenericoPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresarAmbientesPDM.resx">
+      <DependentUpon>frmIngresarAmbientesPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresaCargo.resx">
+      <DependentUpon>frmIngresaCargo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresarEnseresPDM.resx">
+      <DependentUpon>frmIngresarEnseresPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresarPabellones.resx">
+      <DependentUpon>frmIngresarPabellones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresarPisosPDM.resx">
+      <DependentUpon>frmIngresarPisosPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresarResponsablesPDM.resx">
+      <DependentUpon>frmIngresarResponsablesPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresoArticulosPDM.resx">
+      <DependentUpon>frmIngresoArticulosPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIngresoCaja.resx">
+      <DependentUpon>frmIngresoCaja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginPDM.resx">
+      <DependentUpon>frmLoginPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNivelEstadoPDM.resx">
+      <DependentUpon>frmNivelEstadoPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalidadeEnseres.resx">
+      <DependentUpon>frmSalidadeEnseres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdiPrincipalPDM.resx">
+      <DependentUpon>mdiPrincipalPDM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NUEVO.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GUARDAR.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EDITAR.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BUSCAR.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PDMFondos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PDMFondoLogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PDMLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PDMCongregacionImg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-33638_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PDMPrincipal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CANCELAR.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PDM.Common\PDM.Common.vbproj">
+      <Project>{93f89182-99bf-488a-8a0a-3cb276bb4fc1}</Project>
+      <Name>PDM.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PDM.Entidades\PDM.Entidades.vbproj">
+      <Project>{b21f6520-acdc-4aad-8167-e228eab6fd1b}</Project>
+      <Name>PDM.Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PDM.LogicaNegocio\PDM.LogicaNegocio.vbproj">
+      <Project>{2fe53088-2ae2-489c-8a9c-8b35cf18c5fa}</Project>
+      <Name>PDM.LogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FonfoNuevo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\47370131_1960271860735029_5071678600671920128_o.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

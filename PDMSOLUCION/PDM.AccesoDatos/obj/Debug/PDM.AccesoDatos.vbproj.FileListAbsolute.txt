@@ -1,0 +1,60 @@
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.Resources.resources
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\PROYECTO INVENTARIO\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.Resources.resources
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.Resources.resources
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.pdb
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.Resources.resources
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.dll
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.xml
+C:\Users\-Init\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.pdb
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\bin\Debug\PDM.Entidades.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbprojResolveAssemblyReference.cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.Resources.resources
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.vbproj.GenerateResource.Cache
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.dll
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.xml
+C:\Users\BRYAN\Desktop\CADS\SISTEMA CADS\SISTEMA CADS\SISTEMA CADS\PDMSOLUCION\PDM.AccesoDatos\obj\Debug\PDM.AccesoDatos.pdb
